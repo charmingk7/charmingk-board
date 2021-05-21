@@ -1,0 +1,2 @@
+com/charmingk/board/web/HelloControllerTest.java
+ com.charmingk.board.web.HelloControllerTest

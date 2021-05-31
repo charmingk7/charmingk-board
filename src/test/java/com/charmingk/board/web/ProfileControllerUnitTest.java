@@ -1,6 +1,5 @@
 package com.charmingk.board.web;
 
-import junit.framework.TestCase;
 import org.junit.Test;
 import org.springframework.mock.env.MockEnvironment;
 
